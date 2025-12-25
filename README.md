@@ -65,6 +65,5 @@ Feel free to reach out to me:
 ---
 
 ⭐ If you like this project, consider giving it a star!
-- **GitHub Pages** – Hosting & deployment
 
 ---
